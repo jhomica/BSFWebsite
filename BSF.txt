@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>BSF WEBSITE ALFA</title>
+  <link rel="stylesheet" href="BSFstyle.css">
+</head>
+
+<body>
+
+<header>
+ <figure>
+  <img src="LOGO.png" alt="bsf" width="200" height="200">
+ </figure>
+   <H1 id="h1">BATAAN SCHOOL OF FISHERIES</H1>
+    <div>SINCE 1971 l Daan Bago, Orion, Bataan l
+Region III l Division of Bataan
+</div>
+</header>
+
+<nav>
+<button type="button" onclick="document.write("#B")"><a href="#B">About</a></button><button type="button" onclick="document.write("#A")"><a href="#A">BSF Hymn</a></button><button type="button" onclick="document.write("#C")"><a href="#C">Mission</a></button><button type="button" onclick="document.write("#D")"><a href="#D">Vission</a></button><button type="button" onclick="document.write("#E")"><a href="#E">Core Values</a></button>
+
+
+</nav>
+
+<section id="B">
+   <h2 class="secA">About</h2>
+   <p class="secA">The <b>Bataan School of Fisheries</b> (BSF) is a public school located in <b>Orion, Bataan</b>.
+It was established in <b>1971</b> through <b>Republic Act 4222</b>, enacted    by the <b>5th Congress on June 19, 1965</b>,
+under the supervision of the <b>Director of Vocational Education</b>. The school is <i>located</i> in <b>Barangay Daan Bago</b>, 
+with a total land area of <i>14.8 hectares for the fishpond</i>. <i>Laboratory, 2.08 hectares for mangrove forest, and 6 hectares of 
+reservation area for the fishing laboratory</i>.
+<br>
+In <b>1971</b>, the <b>Bataan School of Fisheries</b> opened its gates for its first year of operation. It offered a 
+<b>Secondary Technical Vocational Program</b> with specialization in <b>Fish Capture</b>, <b>Fish Culture</b> and
+<b>Fish Preservation</b>. BSF then expanded its curricular program in <b>1975</b> to offer a three-year <b>Post Secondary Diploma
+in Fisheries Technology</b> (DFT) with specialization in <b>Marine Fisheries</b>, <b>Aquaculture</b>, and <b>Fish Processing</b>.
+<br>
+However, in <b>1994</b>, <i>BSF was placed under</i> <b>TESDA</b> (Technical Education and Skills Development Authority) supervision
+through <b>R.A. 7796</b>. During this period, BSF gained accreditation for the offering of <b>Basic Seamanship</b>, 
+<b>Garments Technology</b> and <b>One-Year Computer Literacy Course</b> in addition to the <i>FBPS</i>, <i>FPST</i>, and 
+<i>DFT</i>. In <b>1998</b>, <b>Bataan School of Fisheries</b> opted to return to the <i>supervision</i> of the <b>Department
+of Education, Culture, and Sports, Department of Education</b> (DepEd). BSF also started to conduct
+<b>TESDA</b>-<i>supervised trade tests for graduating students in Garment Technology.</i>
+<br>  
+<b>Bataan School of Fisheries</b> gained <i>accreditation</i> in <b>1999</b> as an assessment center for 
+<b>Food Trades</b> and <b>Computer Encoding</b> for graduates of <b>FBPS</b> and the <b>One-Year Computer Literacy Program</b>. In <b>2007</b>, BSF was 
+identified as thepilot school for the <b>implementation of the Strengthened Technical-Vocational Education Program</b> 
+(STEVEP) of the Department of Education. It also started to conduct TESDA. <b>Supervised Competency Assessment</b> 
+for its <i>graduating high schools</i>.
+<br>
+In addition, in <b>2008</b>, BSF contracted a <b>Memorandum of Agreement</b> with <b>Bataan Peninsula State University </b>(BPSU) for the<i>College</i> consortium to offer <b>Bachelor of Science</b> in Fisheries and Associate in <b>Computer Technology programs</b>. Which then 
+in <i>2010</i>, <b>Bataan School of Fisheries</b> was <i>identified</i> as a <b>National Benchmarking School for Department Heads of Fishery Schools</b> throughout the <b>Philippines</b>.  
+<br>
+Further, in <i>2012</i>, <b>BSF</b> was identified as a <b>Modelling Tech-Voc School in Fisheries</b> for the <i>Grade 11</i> and <i>Grade 
+12 Senior High School</i> of the <b>K-12 Program</b>. There are only 14 schools in the country that participated in the said Modelling Program 
+of which BSF is one. In <i>2013</i>, <b>Bataan School of Fisheries</b> was accredited as a <b>Training and Assessment Center in Fish/Food Processing NCII, Aquaculture NCII, Aquaculture INC II, Fish Capture NCII, Dressmaking NCII and Food & Beverages NCII</b>.  
+At present, the school has <i>2309 students</i> in both the Junior High School <i>76</i> and Senior High School <i>22</i> with <i>98</i> teachers.
+ Under the supervision of <b>Dr. Marijoy B. Mendoza School Principal III, and Arvin N. De Dios, Assistant School Principal II.</b></p>
+</section>
+
+<aside id="A">
+ <H2 class="as">THE BSF HYMN</H2>
+
+   <P class="as">BATAAN SCHOOL OF FISHERIES DEEP IN OUR FONDEST MEMORIES <BR>
+   SWEET BREEZES GENTLY SIGH THY NAME DEAR ACROSS THE SEAS.<BR>
+    <BR>
+   THROGH ALL THE LANDS ACROSS THE SEA<br> 
+   WHATEVER BE OUR DESTINY THROUGH EONS OF ETERNITY<BR>
+    <BR>
+   WE SING IT LOULDY AND VERY PROUDLY WITHIN OUR HEARTS THY CHERISHED NAME <br>
+   WILL EVER BE.<br>
+    <BR>
+   RISE TO HER CALL YE LUSTLY PIONEERS UP GIVE HER ALL THROUGH GLADNESS AND THROUGH<br>
+   TEARS LET THE WONDER OF HER FAME HER GLORIOUS NAME RE-ECHO THROUGH THE YEARS.<BR>
+    <BR>
+   SAIL ON, OH HAPPY SHIP BATAAN SCHOOL OF FISHERIES KEEP ON, THY GLORIOUS TRIP THROUGH <br>
+   ALL UNCHARTED STORMY SEAS SHINE ON, FROM YEARS TO YEARS THY LOYAL STUDENTS WE WILL BE <br>
+   WE LOVE THEE EVER NOW AND FOREVER OUR ALMA MATER DEAR.<BR></P>
+</aside>
+
+<section id="C">
+<h2 class="secB">DepEd Mission</h2>
+<p class="secB">To protect and promote the right of every Filipino to quality, equitable, culture-based, and complete basic education where:
+Students learn in a child-friendly, gender-sensitive, safe, and motivating environment.
+Teachers facilitate learning and constantly nurture every learner.
+Administrators and staff, as stewards of the institution, ensure an enabling and supportive environment for effective learning to happen.
+Family, community, and other stakeholders are actively engaged and share responsibility for developing life-long learners.</P>
+
+<section id="D">
+<h2 class="secC">DepEd Vission</h2>
+<p class="secC">We dream of Filipinos
+who passionately love their country
+and whose values and competencies
+enable them to realize their full potential
+and contribute meaningfully to building the nation.
+
+As a learner-centered public institution,
+the Department of Education
+continuously improves itself
+to better serve its stakeholders.</P>
+
+<article id="E">
+<h2 class="artA">Our Core Values</h2>
+<p class="artA">Maka-Diyos, Maka-tao, Makakalikasan, Makabansa</p>
+
+<video width="320" height="240" controls>
+  <source src="bsfhymn.mp4" type="video/mp4">
+</video>
+
+<footer>
+Contacts to BSF:<br>
+<a href="www.facebook.com/bataanschooloffisheries">Facebook</a><br>
+Tel. No. : (047)237-1726<br>	
+Mobile No. : 09088135067<br>
+
+<button type="button"><a href="#h1">Back to Top</a></button>
+
+</footer>
+
+
+</body>
+
+<html>
